@@ -1,0 +1,1 @@
+(()=>{"use strict";alert("Rudiney Liemes"),alert;let e=new e;e.createUser()})();
